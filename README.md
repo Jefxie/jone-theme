@@ -1,7 +1,7 @@
 # Jone Theme
 ## a vscode Individualized Light Eye Protection Theme-Dark Eye Protection Theme.
 
-Jone Theme For Vscode Fork GitHub: https://github.com/JianJunX/jone-theme
+Jone Theme For Vscode Fork
 
 ## Install
 

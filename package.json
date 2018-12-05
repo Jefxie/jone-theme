@@ -13,9 +13,7 @@
         "vscode": "^1.29.0"
     },
     "categories": [
-        "Themes",
-        "护眼主题",
-        "暗色主题"
+        "Themes"
     ],
     "contributes": {
         "themes": [

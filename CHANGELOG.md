@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "jone-theme-light" extension will be documented in this file.
+All notable changes to the "Jone Theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.2.0]
 - Initial release
+
+## [0.3.0]
+- Initial changelog
