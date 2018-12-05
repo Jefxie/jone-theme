@@ -3,12 +3,12 @@
     "displayName": "Jone Theme",
     "description": "a vscode Individualized Light Eye Protection Theme-Dark Eye Protection Theme",
     "publisher": "Jone Xie",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icon": "icon.png",
     "repository": {
-		"url": "https://github.com/JianJunX/jone-theme",
-		"type": "git"
-	},
+        "url": "https://github.com/JianJunX/jone-theme",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.29.0"
     },
