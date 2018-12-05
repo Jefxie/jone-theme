@@ -13,7 +13,12 @@
         "vscode": "^1.29.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Jone",
+        "Light",
+        "Dark",
+        "护眼主题",
+        "暗色主题"
     ],
     "contributes": {
         "themes": [
