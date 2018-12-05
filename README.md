@@ -17,7 +17,7 @@ Jone Theme For Vscode Fork
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-$ git clone https://github.com/JianJunX/jone-theme.git ~/.vscode/extensions/jone-theme
+$ git clone //github.com/JianJunX/jone-theme.git ~/.vscode/extensions/jone-theme
 $ cd ~/.vscode/extensions/jone-theme
 $ npm install
 $ npm run build
@@ -34,5 +34,5 @@ $ npm run build
 
 ![Jone Dark](https://jone-1251280787.cos.ap-shanghai.myqcloud.com/static/WX20181205-095849.png?q-sign-algorithm=sha1&q-ak=AKID35VXIQLESniw5jKx9uIDvtKLr2qULF6d&q-sign-time=1543978824;1543980624&q-key-time=1543978824;1543980624&q-header-list=&q-url-param-list=&q-signature=db0aa1ca2f7f9d97e332060b16250a3eb917de32&x-cos-security-token=e5ec3cf2ec6b3b25ed6e913507469603d2cd549a10001)
 
-**Enjoy!**
+Enjoy
 
