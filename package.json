@@ -5,6 +5,7 @@
     "publisher": "jonxie",
     "version": "0.3.0",
     "icon": "icon.png",
+    "license": "MIT",
     "repository": {
         "url": "https://github.com/JianJunX/jone-theme",
         "type": "git"
