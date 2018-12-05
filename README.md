@@ -28,11 +28,11 @@ $ npm run build
 
 ### Jone Light
 
-![image](http://image.jef.site/FodG-Bo6ExRpda7zSbYJSHIwOdiB?imageMogr2/auto-orient/thumbnail/650x650>/format/webp/blur/1x0/quality/80|watermark/1/image/aHR0cDovL2ltYWdlLmplZi5zaXRlL2xvZ29fdzUwLnBuZw==/dissolve/20/gravity/SouthEast/dx/10/dy/10)
+![Jone Light](https://jone-1251280787.cos.ap-shanghai.myqcloud.com/static/WX20181205-095729.png?q-sign-algorithm=sha1&q-ak=AKIDwplWD8E5klEC6tx0jM3PJGEOa8mrNLjc&q-sign-time=1543978728;1543980528&q-key-time=1543978728;1543980528&q-header-list=&q-url-param-list=&q-signature=90ae166085c05f4c30b0ec2e97567cf72834791a&x-cos-security-token=e551ec2bfb0c561c63635dd7ef9b5b65dc73edfa10001)
 
 ### Jone Dark
 
-![image](http://image.jef.site/FnKq7sFUFzQaCnvZpW2y_O7G1-oA?imageMogr2/auto-orient/thumbnail/650x650>/format/webp/blur/1x0/quality/80|watermark/1/image/aHR0cDovL2ltYWdlLmplZi5zaXRlL2xvZ29fdzUwLnBuZw==/dissolve/20/gravity/SouthEast/dx/10/dy/10)
+![Jone Dark](https://jone-1251280787.cos.ap-shanghai.myqcloud.com/static/WX20181205-095849.png?q-sign-algorithm=sha1&q-ak=AKID35VXIQLESniw5jKx9uIDvtKLr2qULF6d&q-sign-time=1543978824;1543980624&q-key-time=1543978824;1543980624&q-header-list=&q-url-param-list=&q-signature=db0aa1ca2f7f9d97e332060b16250a3eb917de32&x-cos-security-token=e5ec3cf2ec6b3b25ed6e913507469603d2cd549a10001)
 
 **Enjoy!**
 
